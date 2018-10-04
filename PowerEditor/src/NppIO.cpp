@@ -1372,7 +1372,7 @@ bool Notepad_plus::fileSaveAs(BufferID id, bool isSaveCopy)
 		{
 			_nativeLangSpeaker.messageBox("FileAlreadyOpenedInNpp",
 				_pPublicInterface->getHSelf(),
-				TEXT("The file is already opened in the Notepad++."),
+				TEXT("The file is already opened in Notepad++."),
 				TEXT("ERROR"),
 				MB_OK | MB_ICONSTOP);
 			switchToFile(other);
