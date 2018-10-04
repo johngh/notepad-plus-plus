@@ -241,7 +241,7 @@ Any member variable name of class/struct should be preceded by an underscore.</h
 
 #### COMMENTS
 
-1. ##### Use C++ comment line style than C comment style.
+1. ##### Use C++ comment line style rather than C comment style.
 
   * ###### Good:
     ```
